@@ -1,0 +1,103 @@
+{
+    "personal_information": {
+      "name": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "middle_initial": "A"
+      },
+      "contact_information": {
+        "email": "johndoe@example.com",
+        "phone_number": "+1234567890",
+        "address": {
+          "street": "123 Main St",
+          "city": "Metro City",
+          "state": "State",
+          "zip_code": "12345",
+          "country": "Country"
+        },
+        "linkedin_profile": "https://www.linkedin.com/in/johndoe",
+        "github_profile": "https://github.com/johndoe"
+      },
+      "education": {
+        "degree": "Bachelor of Science in Computer Science",
+        "university": "Metro City University",
+        "graduation_date": "2024-05-30",
+        "gpa": "3.8/4.0"
+      },
+      "skills": [
+        "Programming: Java, Python, PHP, JavaScript",
+        "Web Development: HTML, CSS, JavaScript, React",
+        "Database: MySQL, MongoDB",
+        "Version Control: Git"
+      ],
+      "experience": [
+        {
+          "job_title": "Software Development Intern",
+          "company": "Tech Solutions Inc.",
+          "start_date": "2023-06-01",
+          "end_date": "2023-08-30",
+          "description": "Worked on developing features for a web application using React and Node.js, collaborated with senior developers, and wrote unit tests."
+        },
+        {
+          "job_title": "Teaching Assistant",
+          "company": "Metro City University",
+          "start_date": "2022-09-01",
+          "end_date": "2023-05-15",
+          "description": "Assisted professors in grading assignments, conducting tutorials, and supporting students in Computer Science courses."
+        }
+      ],
+      "certifications": [
+        {
+          "name": "AWS Certified Solutions Architect",
+          "date_earned": "2024-01-15"
+        },
+        {
+          "name": "Google IT Support Professional Certificate",
+          "date_earned": "2023-07-10"
+        }
+      ],
+      "extracurricular_activities": [
+        {
+          "role": "President",
+          "organization": "Computer Science Club",
+          "start_date": "2023-01-01",
+          "end_date": "2023-12-31",
+          "description": "Led a team of 20 members, organized events, workshops, and competitions for Computer Science students."
+        },
+        {
+          "role": "Volunteer",
+          "organization": "Code for Good",
+          "start_date": "2022-06-01",
+          "end_date": "2022-08-30",
+          "description": "Helped local NGOs build websites and improve their online presence."
+        }
+      ],
+      "languages": [
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        },
+        {
+          "language": "Spanish",
+          "proficiency": "Intermediate"
+        }
+      ],
+      "references": [
+        {
+          "name": "Jane Smith",
+          "position": "Senior Software Engineer",
+          "company": "Tech Solutions Inc.",
+          "email": "janesmith@example.com",
+          "phone_number": "+1234567891"
+        },
+        {
+          "name": "Dr. Michael Lee",
+          "position": "Professor of Computer Science",
+          "company": "Metro City University",
+          "email": "mlee@example.com",
+          "phone_number": "+1234567892"
+        }
+      ]
+    }
+  }
+  
